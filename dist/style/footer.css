@@ -1,0 +1,12 @@
+:root {
+  --main-color:#FFFFFF;
+  --secondary-color:#000000;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+/*# sourceMappingURL=footer.css.map */

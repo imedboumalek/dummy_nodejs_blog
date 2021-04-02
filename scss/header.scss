@@ -1,0 +1,18 @@
+@import './config';
+
+header {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: space-between;
+    justify-content: space-between;
+    nav {
+        display: flex; flex-flow: row;
+        align-items: center;
+        li{
+            display: block;
+            height: 20px;
+            width: 40px;
+            margin:20px;
+        }
+    }
+}
