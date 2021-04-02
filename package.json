@@ -1,0 +1,23 @@
+{
+  "name": "dummy_nodejs_blog",
+  "version": "1.0.0",
+  "description": "a dummy project to learn express mongo and node",
+  "main": "servers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imedboumalek/dummy_nodejs_blog.git"
+  },
+  "author": "Imed Boumalek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imedboumalek/dummy_nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/imedboumalek/dummy_nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  }
+}
